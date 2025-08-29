@@ -106,6 +106,17 @@ Make Roo Code work your way with:
 - [Local Models](https://docs.roocode.com/advanced-usage/local-models) for offline use
 - [Auto-Approval Settings](https://docs.roocode.com/advanced-usage/auto-approving-actions) for faster workflows
 
+### Multi-User Mode
+
+Roo Code supports multi-user mode for enterprise and team deployments:
+
+- **User Isolation**: Complete separation of user data, states, and resources
+- **Scalable Architecture**: Efficiently handle multiple concurrent users
+- **WebSocket Support**: Real-time communication with user-specific contexts
+- **Resource Management**: Optimized memory and CPU usage per user
+
+For detailed information on setting up and using multi-user mode, see our [Multi-User Mode Documentation](docs/README-MULTI-USER.md).
+
 ## Resources
 
 ### Documentation
